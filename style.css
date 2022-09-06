@@ -146,7 +146,7 @@ figcaption {
 .quote {
   background-color: #e5e7eb;
   color: #1f2937;
-  padding: 24px;
+  padding: 80px 24px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -172,7 +172,7 @@ blockquote {
 .call-to-action {
   background-color: #3882f6;
   border-radius: 10px;
-  margin: 50px 10%;
+  margin: 80px 10%;
   color: #f9faf8;
   display: flex;
   justify-content: space-around;
