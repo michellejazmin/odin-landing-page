@@ -59,6 +59,14 @@ nav a {
   color:#e5e7eb;
 }
 
+nav a:hover {
+  color: #3882f6;
+}
+
+nav a:active {
+  color:#38caf6;
+}
+
 .welcome, main {
   flex-grow: 1;
 }
